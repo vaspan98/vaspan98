@@ -2,7 +2,7 @@
 
 **Social Media:**
 <br>
-[![Linkedin: vaspan98](https://img.shields.io/badge/-Vassilis-Panagakis-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaspan98/)
+[![Linkedin: Vassilis Panagakis](https://img.shields.io/badge/-vaspan98-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaspan98/)
 </br>
 
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code on github*
