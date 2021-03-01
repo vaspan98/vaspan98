@@ -1,7 +1,6 @@
 ### Hi there, I'm Vassilis!
 
 **Social Media:**
-
 <br>
 [![Linkedin: vaspan98](https://img.shields.io/badge/-vaspan98-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaspan98/)
 </br>
