@@ -14,16 +14,13 @@
   <a href="https://instagram.com/vaspan98">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:vaspan98@gmail.com'>vaspan98@gmail.com</a>
 </p>
 
-*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code on github.*
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaspan98&layout=compact&theme=material-palenight" /></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaspan98&layout=compact&theme=material-palenight" />
-</a>
+*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code on github.*
